@@ -12,7 +12,7 @@ const Sidebar: React.FC = () => {
         <h3>关于作者</h3>
         <div className={styles.authorInfo}>
           <img
-            src="https://bkimg.cdn.bcebos.com/pic/c9fcc3cec3fdfc03924502c00b679094a4c27d1e8808"
+            src={reactSvg}
             alt="张三"
             className={styles.avatar}
           />
